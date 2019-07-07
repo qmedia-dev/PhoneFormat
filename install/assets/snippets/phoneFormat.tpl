@@ -23,7 +23,7 @@
  * @category    snippet
  * @version     1.0.0
  * @author      cgehuzi <mail.cgehuzi@yandex.ru>
- * @reportissues https://github.com/cgehuzi/dateFormat
+ * @reportissues https://github.com/cgehuzi/phoneFormat
 
  * @documentation Необходим для подстановки корректного телефона в ссылки с атрибутом href="tel: "
  * @documentation 
