@@ -6,12 +6,12 @@
  *
  * @category    snippet
  * @version     1.0.0
- * @author      cgehuzi <mail.cgehuzi@yandex.ru>
- * @reportissues https://github.com/cgehuzi/phoneFormat
+ * @author      igor <igor@qmedia.by>
+ * @reportissues https://github.com/qmedia-dev/phoneFormat
 
  * @internal    @properties
  * @internal    @modx_category Qmedia
- * @internal    @installset base, simple
+ * @internal    @installset base, sample
  
  */
  
@@ -22,8 +22,8 @@
  *
  * @category    snippet
  * @version     1.0.0
- * @author      cgehuzi <mail.cgehuzi@yandex.ru>
- * @reportissues https://github.com/cgehuzi/phoneFormat
+ * @author      igor <igor@qmedia.by>
+ * @reportissues https://github.com/qmedia-dev/phoneFormat
 
  * @documentation Необходим для подстановки корректного телефона в ссылки с атрибутом href="tel: "
  * @documentation 
