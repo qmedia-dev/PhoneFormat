@@ -25,10 +25,13 @@
  * @author      igor <igor@qmedia.by>
  * @reportissues https://github.com/qmedia-dev/phoneFormat
 
- * @documentation Необходим для подстановки корректного телефона в ссылки с атрибутом href="tel: "
- * @documentation 
- * @documentation [[phoneFormat? &phone=`+375 (29) 123-45-67`]]
+ * @documentation Необходим для подстановки корректного телефона в ссылки типа tel
 
  */
 
+ /* Usage -------------------------------
+ [[phoneFormat?
+ &phone=`+375 (29) 123-45-67`
+ ]]
+ ---------------------------------------- */
 return require MODX_BASE_PATH . 'assets/snippets/phoneFormat/snippet.phoneFormat.php';
